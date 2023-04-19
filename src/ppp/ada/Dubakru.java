@@ -15,7 +15,7 @@ public class Employee {
 			System.out.println(2);
 
 		default:
-			System.out.println("wrong");
+			System.out.println("wrodddng");
 
 		}
 
